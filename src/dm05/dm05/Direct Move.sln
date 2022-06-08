@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct Move", "Direct Move.vcproj", "{C12DAA96-8D96-451E-BA98-6E14989D90A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Penil|Win32 = Debug Penil|Win32
+		Debug|Win32 = Debug|Win32
+		Release Penil|Win32 = Release Penil|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Debug Penil|Win32.ActiveCfg = Release Penil|Win32
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Debug Penil|Win32.Build.0 = Release Penil|Win32
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Debug|Win32.Build.0 = Debug|Win32
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Release Penil|Win32.ActiveCfg = Release Penil|Win32
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Release Penil|Win32.Build.0 = Release Penil|Win32
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Release|Win32.ActiveCfg = Release|Win32
+		{C12DAA96-8D96-451E-BA98-6E14989D90A6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
